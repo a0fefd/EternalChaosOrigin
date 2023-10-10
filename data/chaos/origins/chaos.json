@@ -1,0 +1,20 @@
+{
+	"powers": [
+		"chaos:aura_of_mistrust",
+		"chaos:divine_weakening",
+		"chaos:ephemeral_phantom",
+		"chaos:incompatible",
+		"chaos:pacifists_paradox",
+		"chaos:portal_particles",
+		"chaos:purgatory",
+		"chaos:teleport",
+		"chaos:wither_touch",
+		"chaos:tag",
+		"chaos:infinity"
+	],
+	"icon": "minecraft:chorus_flower",
+	"order": 10,
+	"impact": 1,
+	"name": "Eternal Chaos",
+	"description": "You are the embodiment of chaos. Your presence instills fear and uncertainty, making others question the very fabric of their reality. You are untrusted for all of eternity."
+}

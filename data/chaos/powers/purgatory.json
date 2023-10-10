@@ -1,0 +1,20 @@
+{
+    "name": "Purgatory",
+    "description": "The Sun's light is too potent, resulting in damage sometimes.",
+  
+  
+    "type": "origins:action_over_time",
+    "entity_action": {
+      "type": "origins:set_on_fire",
+      "duration": 4
+    },
+    "interval": 100,
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:exposed_to_sun"
+        }
+      ]
+    }
+  }

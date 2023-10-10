@@ -1,0 +1,9 @@
+{
+    "name": "Divine Weakening",
+    "description": "Due to your chaotic nature the gods have weakened you, causing you to be hurt easier.",
+    "type": "origins:modify_damage_taken",
+    "modifier": {
+        "operation": "multiply_total",
+        "value": 1.2
+    }
+}
