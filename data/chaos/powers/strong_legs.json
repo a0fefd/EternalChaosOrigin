@@ -1,12 +1,6 @@
 {
-    "type": "origins:modify_damage_taken",
-    "damage_condition": {
-        "type": "origins:name",
-        "name": "fall"
-    },
-    "modifier": {
-        "name": "No Fall Damage",
-        "operation": "multiplication",
-        "value": 0
-    }
+    "name": "Strong Legs",
+    "description": "Your legs have been strengthened through pain and experience, you take no fall damage.",
+    "type": "origins:modify_falling",
+    "take_fall_damage": false
 }
