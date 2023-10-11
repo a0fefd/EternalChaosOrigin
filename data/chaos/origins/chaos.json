@@ -9,12 +9,13 @@
 		"chaos:purgatory",
 		"chaos:teleport",
 		"chaos:wither_touch",
+		"chaos:strengthened_fist",
 		"chaos:tag",
 		"chaos:infinity"
 	],
 	"icon": "minecraft:chorus_flower",
 	"order": 10,
-	"impact": 1,
+	"impact": 3,
 	"name": "Eternal Chaos",
 	"description": "You are the embodiment of chaos. Your presence instills fear and uncertainty, making others question the very fabric of their reality. You are untrusted for all of eternity."
 }
