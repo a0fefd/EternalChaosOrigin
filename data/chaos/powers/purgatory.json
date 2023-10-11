@@ -6,7 +6,7 @@
     "type": "origins:action_over_time",
     "entity_action": {
       "type": "origins:set_on_fire",
-      "duration": 4
+      "duration": 3
     },
     "interval": 100,
     "condition": {
