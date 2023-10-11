@@ -27,7 +27,7 @@
 		"command_at_hit": "tp @s ~ ~ ~",
 		"command_hit_offset": 1
 	},
-	"cooldown": 200,
+	"cooldown": 140,
 	"hud_render": {
 		"should_render": true,
 		"bar_index": 6
@@ -40,7 +40,7 @@
 		{
 			"type": "origins:tooltip",
 			"sprite": "origins:textures/gui/badge/info.png",
-			"text": "Has a 10 second cooldown."
+			"text": "Has a 7 second cooldown."
 		}
 	]
 }
