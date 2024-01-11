@@ -6,7 +6,7 @@
         "type": "origins:apply_effect",
         "effect": {
             "effect": "minecraft:wither",
-            "amplifier": 2,
+            "amplifier": 9,
             "duration": 100
         }
     },
