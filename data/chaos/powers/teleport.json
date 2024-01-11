@@ -7,7 +7,7 @@
 	"type": "origins:active_self",
 	"entity_action": {
 		"type": "origins:raycast",
-		"distance": 1024,
+		"distance": 4192,
 		"block": true,
 		"entity": false,
 		"shape_type": "collider",
@@ -27,7 +27,7 @@
 		"command_at_hit": "tp @s ~ ~ ~",
 		"command_hit_offset": 1
 	},
-	"cooldown": 140,
+	"cooldown": 20,
 	"hud_render": {
 		"should_render": true,
 		"bar_index": 6
