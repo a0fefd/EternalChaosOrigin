@@ -4,8 +4,8 @@
     "type": "origins:modify_damage_dealt",
     "modifier": {
         "operation": "multiply_total",
-        "value": 3,
-        "name": "300% damage."
+        "value": 5,
+        "name": "500% damage."
     },
     "condition": {
         "type": "origins:equipped_item",
